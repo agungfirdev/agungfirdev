@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 29 September 2025
+From: 27 January 2025 - To: 01 October 2025
 
-Total Time: 752 hrs 27 mins
+Total Time: 752 hrs 41 mins
 
-JavaScript             192 hrs 48 mins ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-Kotlin                 169 hrs 4 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-TypeScript             117 hrs 57 mins ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+JavaScript             192 hrs 51 mins ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+Kotlin                 169 hrs 4 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.46 %
+TypeScript             118 hrs 9 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
 Markdown               78 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
 JSON                   41 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 XML                    25 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
