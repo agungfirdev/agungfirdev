@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 31 May 2026
+From: 27 January 2025 - To: 01 June 2026
 
-Total Time: 1,071 hrs 29 mins
+Total Time: 1,071 hrs 30 mins
 
-JavaScript             314 hrs 25 mins       ███████▒░░░░░░░░░░░░░░░░░   29.34 %
+JavaScript             314 hrs 26 mins       ███████▒░░░░░░░░░░░░░░░░░   29.35 %
 Kotlin                 218 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 %
 TypeScript             122 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
 Markdown               99 hrs 51 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
